@@ -8,7 +8,7 @@ Creative Commons Attribution 4.0 International Public License
 (https://creativecommons.org/licenses/by/4.0/)
 - applies to databases, images, tables, text, and any other objects
 
-COPYRIGHT <YEAR> <COPYRIGHT HOLDER>
+COPYRIGHT <2020> <Wesley Blundell, Gautam Gowrisankaran, Ashley Langer>
 
 =================================================================
 Modified BSD License
